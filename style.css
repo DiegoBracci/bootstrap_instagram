@@ -1,0 +1,41 @@
+
+#text1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+body{
+    background: white;
+}
+
+button{
+
+    margin: 15px
+}
+
+.card{
+    padding: 0px;
+}
+
+.icono-social{
+
+    color: gray
+}
+
+#heart {
+    color:gray
+}
+#points3{
+    color: gray;
+}
+
+.fa-grip-horizontal:before {
+    color: darkgray;
+}
+.fa-camera:before {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: gray;
+}
